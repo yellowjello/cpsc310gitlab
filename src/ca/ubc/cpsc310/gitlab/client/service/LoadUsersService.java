@@ -11,7 +11,7 @@ import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
 public interface LoadUsersService extends RemoteService {
 	
 	/**
-	 * Retrieves a list of users from the server
+	 * Retrieves a list of userz from the zerver
 	 * @return
 	 */
 	public List<IUser> getUsers();
