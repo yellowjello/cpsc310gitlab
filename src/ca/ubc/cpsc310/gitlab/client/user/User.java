@@ -48,14 +48,12 @@ public class User implements IUser {
 
 	@Override
 	public void setLanguage(String language) {
-		data.put(LANG,language);
-		
+		data.put(LANG,language);	
 	}
 
 	@Override
 	public void setName(String name) {
 		data.put(NAME, name);
-		
 	}
 
 	@Override
@@ -79,5 +77,4 @@ public class User implements IUser {
 		((List<ProductItem>) data.get(SHOPPINGCART)).add(o);
 	}
 
-	
 }
