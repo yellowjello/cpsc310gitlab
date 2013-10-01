@@ -11,13 +11,12 @@ Tom Touchstone,EN,3,0
 May Green,FR,0,0
 Annie Allaire,EN,3,1
 Carobaka,FR,0,0
-Machelle Maston,EN,0,5
-Constance Cupps,FR,0,3
-Jonell Joslin,FR,0,1
+Margaret Shen,CH,3,7
 Tana Theel,EN,2,6
 Moose man,FR,0,1
 Florencio Friley,FR,0,0
 Lacy Lepley,EN,0,2
+David Williams-King,CA,2,6
 Larita Luedke,FR,0,0
 Danny Dale,EN,0,0
 Destiny Denicola,EN,0,0
@@ -26,3 +25,4 @@ Shanika Summerall,EN,0,5
 Delicia Dorado,FR,1,0
 James Bond,EN,5,5
 Carolyn Shen,EN,2,2
+Henry Chee,CA,5,6
