@@ -3,6 +3,7 @@ Willow Walston,EN,8,1
 Rubin Roseborough,FR,0,0
 Lavern Labarre,EN,0,0
 Eldridge Easterwood,FR,2,1
+Benny Thompson,EN,2,2
 Tania Tipping,FR,0,0
 Damien Dandy,FR,0,1
 Tom Touchstone,EN,3,0
@@ -12,6 +13,7 @@ Machelle Maston,EN,0,5
 Constance Cupps,FR,0,3
 Jonell Joslin,FR,0,1
 Tana Theel,EN,2,6
+Moose man,FR,0,1
 Florencio Friley,FR,0,0
 Lacy Lepley,EN,0,2
 Larita Luedke,FR,0,0
