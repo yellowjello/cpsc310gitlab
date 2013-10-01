@@ -2,17 +2,25 @@ Delia Doss,EN,0,2
 Willow Walston,EN,8,1
 Rubin Roseborough,FR,0,0
 Lavern Labarre,EN,0,0
+Betty Black,FR,0,1
 Eldridge Easterwood,FR,2,1
+Benny Thompson,EN,2,2
 Tania Tipping,FR,0,0
-Damien Dandy,FR,0,1
-Tom Touchstone,EN,3,0
+JBFan,EN,0,1
+May Green,FR,0,0
 Annie Allaire,EN,3,1
 Leonardo DiCaprio,US,3,6
+Carobaka,FR,0,0
+Margaret Shen,CH,3,7
+Tana Theel,EN,2,6
+Moose man,FR,0,1
 Florencio Friley,FR,0,0
 Lacy Lepley,EN,0,2
 David Williams-King,CA,2,6
 Larita Luedke,FR,0,0
 Justin Bieber,CA,2,7
+Mr. PP,FR,1,1
+Denita Decato,FR,0,0
 Shanika Summerall,EN,0,5
 Delicia Dorado,FR,1,0
 James Bond,EN,5,5
