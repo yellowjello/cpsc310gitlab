@@ -22,3 +22,4 @@ Denita Decato,FR,0,0
 Shanika Summerall,EN,0,5
 Delicia Dorado,FR,1,0
 James Bond,EN,5,5
+Carolyn Shen,EN,2,2
