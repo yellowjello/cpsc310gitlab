@@ -6,8 +6,7 @@ Betty Black,FR,0,1
 Eldridge Easterwood,FR,2,1
 Benny Thompson,EN,2,2
 Tania Tipping,FR,0,0
-Damien Dandy,FR,0,1
-Tom Touchstone,EN,3,0
+JBFan,EN,0,1
 May Green,FR,0,0
 Annie Allaire,EN,3,1
 Carobaka,FR,0,0
@@ -18,8 +17,7 @@ Florencio Friley,FR,0,0
 Lacy Lepley,EN,0,2
 David Williams-King,CA,2,6
 Larita Luedke,FR,0,0
-Danny Dale,EN,0,0
-Destiny Denicola,EN,0,0
+Mr. PP,FR,1,1
 Denita Decato,FR,0,0
 Shanika Summerall,EN,0,5
 Delicia Dorado,FR,1,0
