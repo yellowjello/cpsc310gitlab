@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+//random comments teehee
 import ca.ubc.cpsc310.gitlab.client.products.ProductItem;
 import ca.ubc.cpsc310.gitlab.client.service.LoadUsersService;
 import ca.ubc.cpsc310.gitlab.client.user.IUser;
@@ -38,7 +38,7 @@ public class LoadUserServiceImpl extends RemoteServiceServlet implements
 				{
 					throw new IllegalArgumentException("Line is corrupt, expected 4 entries on line : " + line);
 				}
-				IUser user = new User();
+				IUser user = new User(); // oh noooooo so many merge conflicts
 				users.add(user);
 				user.setName(fields[0]);
 				user.setLanguage(fields[1]);
@@ -66,7 +66,7 @@ public class LoadUserServiceImpl extends RemoteServiceServlet implements
 			throw new IllegalStateException("Unexpected Exception occurred", e);
 		}
 		
-		
+		// omg comments
 		
 		return users;
 	}
